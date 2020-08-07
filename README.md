@@ -4,4 +4,4 @@
 #### ✨ Segue abaixo o link para visualização ✨
 
 
-!(gif digitando)[https://github.com/Micaelleapds/aula1-fiap/blob/master/dormrm.gif]
+![gif digitando](https://github.com/Micaelleapds/aula1-fiap/blob/master/dormrm.gif)
